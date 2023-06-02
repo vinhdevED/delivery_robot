@@ -1,6 +1,11 @@
 # Delivery Robot work indoor (Factory)  
+## 🗺️ Overview  
++ This project showcases a delivery robot system that utilizes the MPU6050 sensor for angle detection and control. By integrating the MPU6050 with the delivery robot, we enhance its ability to maintain a straight trajectory during transportation.  
++ This project uses STM32F103C8T6 MCU which connects some peripherals to help robot detect do some basic task of whole robot.  
+
 ## 🤖 Problem 
 - Big problem: The earphone manufacturing factory is facing challenges, such as increasing demand, rising labor costs, and the need for transporting electronic parts between some sections. A shipping robot that can automate the shipping process would help to address these challenges.
+
 ## 🐴 Requirement
 + The robot must be able to navigate autonomously in earphone manufacturing factory, 
 + The robot must be able to identify and avoid workers  
@@ -9,9 +14,6 @@
 + as tracking positon, it can detect coordinate
 + Especially, The weight and costs are under 2.5 kg and under 2 million vnd
 
-## 🗺️ Overview  
-+This project showcases a delivery robot system that utilizes the MPU6050 sensor for angle detection and control. By integrating the MPU6050 with the delivery robot, we enhance its ability to maintain a straight trajectory during transportation.  
-+This project uses STM32F103C8T6 MCU which connects some peripherals to help robot detect do some basic task of whole robot.  
 ## 📦 Installation  
 Easy clone this project and open in STM32Cube IDE  
 ## 🪓 Material needed
