@@ -1,6 +1,7 @@
 # Delivery Robot work indoor (Factory)  
 ## 🤖 Problem 
-The earphone manufacturing factory is facing challenges, such as increasing demand, rising labor costs, and the need for transporting electronic parts between some sections. A shipping robot that can automate the shipping process would help to address these challenges.
+- Big problem: The earphone manufacturing factory is facing challenges, such as increasing demand, rising labor costs, and the need for transporting electronic parts between some sections. A shipping robot that can automate the shipping process would help to address these challenges.
+- Project problem:
 ## 🐴 Requirement
 + The robot must be able to navigate autonomously in earphone manufacturing factory, 
 + The robot must be able to identify and avoid workers  
